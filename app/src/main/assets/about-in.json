@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Pengembang utama",
+        "desc": "Sean",
+        "url": "https://www.sean.taipei/"
+    },
+    {
+        "header": true,
+        "title": "Terjemahan"
+    },
+    {
+        "title": "Menjadi penerjemah",
+        "desc": "Membuat bahasa asli Anda memiliki built-in menerjemahkan!",
+        "url": "https://git.io/l10n"
+    },
+    {
+        "header": true,
+        "title": "Misc"
+    },
+    {
+        "title": "Menilai kami",
+        "desc": "Jika Anda suka :)",
+        "url": "https://play.google.com/store/apps/details?id=taipei.sean.telegram.botplayground"
+    },
+    {
+        "title": "Official Chat Room",
+        "desc": "",
+        "url": "https://t.me/AwesomeTeleBot"
+    },
+    {
+        "title": "Open Source di GitHub",
+        "desc": "Sea-n/Android-TG-Bot",
+        "url": "https://git.io/TG"
+    }
+]

@@ -15,6 +15,7 @@ Russian 🇷🇺 by [Smartman\_ru](https://github.com/smartmanru)
 Hindi 🇮🇳 by [Rishabh](https://github.com/lulzx)
 Italian 🇮🇹 by [Eric Solinas](https://t.me/EricSolinas)
 Chinese 🇹🇼 by [Sean](https://www.sean.taipei)  
+Indonesian 🇮🇩 by [KryPtoN](https://kry9ton.github.io)
 If you would like to translate this app to your native language, please read [this gist](https://git.io/l10n).
 
 
